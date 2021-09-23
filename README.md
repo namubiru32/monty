@@ -3,7 +3,7 @@
 ---
 
 ### Project author
-Nadduli Dan (nadduli)
+Namubiru Barbra (namubiru32)
 
 ### Assignment dates
 21-09-2021 to 23-09-2021
@@ -240,7 +240,7 @@ Write a Brainf*ck script that prints `School`, followed by a new line.
     You can install the `bf` interpreter to test your code: `sudo apt install bf`
     Read: [Brainf*ck](https://en.wikipedia.org/wiki/Brainfuck)
 
-File(s): [`1000-school.bf`](https://github.com/Elmahdi1962/monty/blob/master/bf/1000-school.bf)
+File(s): [`1000-school.bf`](https://github.com/namubiru32/monty/blob/main/bf/1000-school.bf)
 
 ### :white_check_mark: 17. Add two digits
 Add two digits given by the user.
@@ -248,7 +248,7 @@ Add two digits given by the user.
     Read the two digits from stdin, add them, and print the result
     The total of the two digits with be one digit-long (<10)
 
-File(s): [`1001-add.bf`](https://github.com/nadduli/monty/blob/main/bf/1001-add.bf)
+File(s): [`1001-add.bf`](https://github.com/namubiru32/monty/blob/main/bf/1001-add.bf)
 
 ### :white_check_mark: 18. Multiplication
 Multiply two digits given by the user.
@@ -256,14 +256,14 @@ Multiply two digits given by the user.
     Read the two digits from stdin, multiply them, and print the result
     The result of the multiplication will be one digit-long (<10)
 
-File(s): [`1002-mul.bf`](https://github.com/Elmahdi1962/monty/blob/master/bf/1002-mul.bf)
+File(s): [`1002-mul.bf`](https://github.com/namubiru32/monty/blob/main/bf/1002-mul.bf)
 
 ### :white_check_mark:: 19. Multiplication level up
 Multiply two digits given by the user.
 
     Read the two digits from stdin, multiply them, and print the result, followed by a new line
 
-File(s): [`1003-mul.bf`](https://github.com/nadduli/monty/blob/main/bf/1003-mul.bf)
+File(s): [`1003-mul.bf`](https://github.com/namubiru32/monty/blob/main/bf/1003-mul.bf)
 
 ---
 
